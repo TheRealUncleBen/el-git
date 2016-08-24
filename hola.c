@@ -1,10 +1,11 @@
 #include <iostream>
 int main(){
-    printf("Soy el papi");
-    printf("Está cool");
+
+    printf ("modificando el archivo \n ");
     printf(":v");
     printf(">:(");
-    printf ("modificando el archivo \n ");
+    printf("Lel");
+
     return 0;
     }
     
